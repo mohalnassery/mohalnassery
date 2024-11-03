@@ -1,6 +1,36 @@
-﻿# 💫 About Me:
-### 🎨 I’m currently working on<br>- Building backend systems using Django for complex projects, including a real-world application involving AWS integration.<br>- Enhancing a Social Network project with a focus on security and functionality, similar to Facebook, using React and Go.<br>- Analyzing vendor data and performance metrics for an e-commerce platform in Bahrain, contributing to a group project that simulates an Amazon-like platform for local vendors.<br>- Researching ERP systems for my company to integrate glass and non-glass products with installation services.<br>- Developing Local LLMS <br><br>### 🤝 I’m looking to collaborate on<br>- Backend development projects, especially those using Django, Go, or AWS.<br>- Projects that require a blend of IT management and HR skills.<br>- Coding challenges and projects related to coding bootcamps, particularly where I can help peers or get feedback on my own projects.<br>  <br>### 👐 I’m looking for help with<br>- Balancing heavy workloads across multiple roles and projects.<br>- Improving my skills in AWS, especially working with EC2, RDS, and S3 for deployment.<br><br><br>### 🌱 I’m currently learning<br>- Advanced techniques in Go, React, and Django to enhance my backend and full-stack development skills.<br>- AWS services to integrate with Django applications, aiming to strengthen my deployment skills.<br>- Improving mental focus and productivity to better manage my day-to-day tasks and coding studies.<br>- Integrating AI with daily life work, especially <br><br>  <br>### 💬 Ask me about<br>- Coding bootcamps and challenges at Reboot01.<br>- Practical tips for managing diverse roles in IT and HR.<br>- Strategies for ERP integration in companies that manage diverse products.<br><br>### ⚡ Fun fact<br>- I’m passionate about AI and actively exploring LLMs, LangChain, vector databases, and local AI models that can process various file types and interact with SQL databases. Balancing my coding projects, workout routines, and a full-time job keeps me constantly learning and growing!
+# 💫 About Me
 
+### 🎨 I’m currently working on
+- Building backend systems using Django for complex projects, including a real-world application involving AWS integration.
+- Enhancing a Social Network project with a focus on security and functionality, similar to Facebook, using React and Go.
+- Analyzing vendor data and performance metrics for an e-commerce platform in Bahrain, part of a group project that simulates an Amazon-like platform for local vendors.
+- Researching ERP systems for my company to integrate both glass and non-glass products with installation services.
+- Developing local LLMs and exploring their applications in real-world projects.
+
+### 🤝 I’m looking to collaborate on
+- Backend development projects, particularly those using Django, Go, or AWS.
+- Projects that blend IT management and HR skills for better workflow integration.
+- Coding challenges and bootcamp projects, especially where I can assist others or receive feedback on my own work.
+
+### 👐 I’m looking for help with
+- Balancing heavy workloads across multiple roles and responsibilities.
+- Advancing my AWS skills, particularly in using EC2, RDS, and S3 for deployment and project scaling.
+- Effective strategies to manage time and maximize productivity in both personal and professional settings.
+
+### 🌱 I’m currently learning
+- Advanced techniques in Go, React, and Django to strengthen my backend and full-stack development abilities.
+- AWS services to enhance my deployment skills and integrate with Django applications.
+- Practical methods for mental focus and productivity to better manage my coding studies, work, and fitness goals.
+- Integrating AI solutions into daily tasks and workflows, especially with LLMs and vector databases.
+
+### 💬 Ask me about
+- Coding bootcamps and challenges at Reboot01.
+- Tips on managing multiple roles in IT and HR.
+- Strategies for ERP system integration in companies with diverse product lines.
+- Insights on learning and implementing AI into daily life tasks.
+
+### ⚡ Fun fact
+- I’m passionate about AI and actively exploring LLMs, LangChain, vector databases, and local AI models that can process various file types and interact with SQL databases. Balancing coding projects, workouts, and a full-time job is challenging, but it keeps me constantly learning and growing!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moh.alnassery) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-abdulla-alnassery) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlnasseryMoh) 
@@ -16,7 +46,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohalnassery&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mohalnassery&limit=8&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohalnassery&icon=0&color=1)](https://visitcount.itsvg.in)
